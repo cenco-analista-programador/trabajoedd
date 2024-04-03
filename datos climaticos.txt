@@ -1,0 +1,42 @@
+Santiago año 2022
+Mes Temperatura (°C) Precipitación (mm)
+Enero 28 0
+Febrero 27 5
+Marzo 26 10
+Abril 22 15
+Mayo 19 20
+Junio 16 25
+Julio 15 30
+Agosto 16 25
+Sept 18 20
+Octubre 21 15
+Nov 24 10
+Dic 26 5
+Valparaiso año 2022
+Mes Temperatura (°C) Precipitación (mm)
+Enero 25 2
+Febrero 24 5
+Marzo 23 10
+Abril 20 15
+Mayo 17 20
+Junio 15 25
+Julio 14 30
+Agosto 15 25
+Sept 17 20
+Octubre 19 15
+Nov 22 10
+Dic 24 5
+Punta Arenas año 2022
+Mes Temperatura (°C) Precipitación (mm)
+Enero 10 20
+Febrero 11 15
+Marzo 10 10
+Abril 7 12
+Mayo 4 25
+Junio 2 35
+Julio 1 40
+Agosto 2 35
+Sept 4 25
+Octubre 7 18
+Nov 9 15
+Dic 10 12
